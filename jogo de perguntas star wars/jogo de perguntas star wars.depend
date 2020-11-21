@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605920100 source:c:\users\guilherme\desktop\linguagens de programação\c-c++\jogo de perguntas star wars\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
